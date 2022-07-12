@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "860669380979",
+    "project_id": "websitezunno",
+    "storage_bucket": "websitezunno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860669380979:android:c6d6b706008ea0413bdd06",
+        "android_client_info": {
+          "package_name": "Web.Site"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860669380979-ba2oi6mqmj90hk88g785u2c67ff6oc5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVk87muRl4Ot4i3wh0dPvQoug-IgCAlT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860669380979-ba2oi6mqmj90hk88g785u2c67ff6oc5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
